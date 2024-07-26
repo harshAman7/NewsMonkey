@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Lee Jae-myung: South Korea opposition leader stabbed in neck on visit to Busan - BBC.com",
+            "description": "Lee Jae-myung was airlifted to hospital after a man posing as a supporter lunged at him with a knife.",
+            "url": "https://www.bbc.com/news/world-asia-67860330",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12AAA/production/_132185467_f28f1efc39779a76e681c606fb1d17feefdf06cc0_0_6000_40001000x667.jpg",
+            "publishedAt": "2024-01-02T08:38:55Z",
+            "content": "Lee Jae-myung was stabbed in the neck, but his injuries are not life-threatening, medical staff say\r\nSouth Korea's opposition leader Lee Jae-myung has been stabbed in the neck during a visit to the c… [+4865 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Japan quake: Rescuers rush to reach survivors - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/world/japan/least-six-dead-after-huge-earthquake-rocks-japan-new-years-day-2024-01-01/",
+            "urlToImage": null,
+            "publishedAt": "2024-01-02T08:01:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "David Ubben and Max Olson",
+            "title": "Michael Penix Jr.’s magnificence carries Washington over Texas, into title game vs. Michigan - The Athletic",
+            "description": "Penix accounted for over 460 total yards on 29-of-38 passing and a pair of touchdowns in the Sugar Bowl.",
+            "url": "https://theathletic.com/5173921/2024/01/02/washington-texas-sugar-bowl-score-result-takeaways/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2024/01/02003435/GettyImages-1893314652-scaled.jpg",
+            "publishedAt": "2024-01-02T06:53:20Z",
+            "content": "There wasnt a single play Michael Penix Jr. couldnt make Monday night. When Texas blanketed his receivers, the Washington quarterback fired lasers across the middle. When the Longhorns brought pressu… [+7193 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KTLA Los Angeles"
+            },
+            "author": "Josh DuBose",
+            "title": "Witness to deadly downtown shootout says party was a ‘powder keg’ - KTLA Los Angeles",
+            "description": "Gunfire erupted in what witnesses called an underground, illegal New Year’s Eve party at a warehouse in downtown Los Angeles early Monday morning leaving two people dead. Police said the shooting broke out at around 1 a.m., following some sort of dispute and …",
+            "url": "https://ktla.com/news/local-news/witness-to-deadly-downtown-shootout-says-party-was-a-powder-keg/",
+            "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2024/01/DTLA-Shooting-2.jpeg?w=1280",
+            "publishedAt": "2024-01-02T06:50:39Z",
+            "content": "Gunfire erupted in what witnesses called an underground, illegal New Years Eve party at a warehouse in downtown Los Angeles early Monday morning leaving two people dead. \r\nPolice said the shooting br… [+3163 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Thomas Schlachter, Jill Martin, Homero De la Fuente",
+            "title": "College Football Playoff: Michigan Wolverines and Washington Huskies advance to National Championship - CNN",
+            "description": "The Michigan Wolverines and Washington Huskies have advanced to the College Football Playoff National Championship where they’ll face off in Houston on January 8 in the title game.",
+            "url": "https://www.cnn.com/2024/01/01/sport/college-football-playoff-how-to-watch-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240102000204-01-washington-texas-college-football-playoffs-012024.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-01-02T06:31:00Z",
+            "content": "The Michigan Wolverines and Washington Huskies have advanced to the College Football Playoff National Championship where theyll face off in Houston on January 8 in the title game.\r\nIn Mondays two sem… [+4723 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SamMobile"
+            },
+            "author": "SamMobile, Asif Iqbal Shaik",
+            "title": "Galaxy S24 Ultra leaks via marketing posters in Brazil, reveals Galaxy AI - SamMobile - Samsung news",
+            "description": "Samsung can't seem to get hold of Galaxy S24 leaks. The next-generation smartphone series will be officially announced on January ...",
+            "url": "https://www.sammobile.com/news/galaxy-s24-ultra-leaks-marketing-posters-brazil/",
+            "urlToImage": "https://www.sammobile.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-Ultra-Titanium-Grey-720x405.jpg",
+            "publishedAt": "2024-01-02T06:15:00Z",
+            "content": "Samsung can't seem to get hold of Galaxy S24 leaks. The next-generation smartphone series will be officially announced on January 17, 2024, but almost all its features have leaked through several sou… [+1882 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "JOSEF FEDERMAN, WAFAA SHURAFA, SAMY MAGDY",
+            "title": "Israel-Hamas war: Israel pulls thousands of troops out of Gaza Strip - The Associated Press",
+            "description": "The Israeli military has confirmed it's pulling thousands of troops out of the Gaza Strip. The move over the next several weeks could set the stage for a new long-term phase of lower-intensity fighting against the Hamas militant group. Israel has been under p…",
+            "url": "https://apnews.com/article/israel-hamas-war-news-01-01-2024-0f7812d5eedb9d8a87ba35ffe83acee8",
+            "urlToImage": "https://dims.apnews.com/dims4/default/311a992/2147483647/strip/true/crop/8305x4672+0+433/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb1%2Fdb%2Fe62729badd6b24e5e4157bd040de%2F1a12b3f0684b4e87a09ef097272c4a7b",
+            "publishedAt": "2024-01-02T05:02:00Z",
+            "content": "JERUSALEM (AP) The Israeli military confirmed Monday that it was pulling thousands of troops out of the Gaza Strip, a step that could clear the way for a new long-term phase of lower-intensity fighti… [+6949 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Evelyn Cheng",
+            "title": "BYD is set to beat Tesla for a second straight year after producing more than 3 million cars in 2023 - CNBC",
+            "description": "In 2022, Tesla produced 1.37 million vehicles, fewer than BYD's 1.88 million.",
+            "url": "https://www.cnbc.com/2024/01/02/byd-produced-more-than-3-million-cars-in-2023-set-to-beat-tesla.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107295493-1693834206759-BYD_Seal_cover_phot.jpg?v=1694160839&w=1920&h=1080",
+            "publishedAt": "2024-01-02T04:48:00Z",
+            "content": "BYD launched the BYD Seal in Europe at the IAA auto show in Munich, Germany. The electric sedan has a starting price of 44,900 euros ($48,479).\r\nBEIJING BYD said Monday it produced more than 3 millio… [+4029 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "USA TODAY",
+            "title": "FBI investigates deadly New Year's Day crash in Rochester, NY. What we know - USA TODAY",
+            "description": null,
+            "url": "https://www.usatoday.com/story/news/nation/2024/01/01/fbi-investigates-rochester-ny-crash/72080445007/",
+            "urlToImage": null,
+            "publishedAt": "2024-01-02T03:45:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Brad Lendon",
+            "title": "US Navy’s largest aircraft carrier returning to US after extended deployment in Mediterranean - CNN",
+            "description": "The US Navy is pulling the world’s largest warship, sent to the eastern Mediterranean Sea after Hamas’ October 7 attack on Israel, back to the United States as it reevaluates its global force requirements, the US Sixth Fleet said in a statement Monday.",
+            "url": "https://www.cnn.com/2024/01/01/politics/uss-gerald-ford-return-mediterranean-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231103133248-01-uss-ford-101423-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-01-02T03:21:10Z",
+            "content": "The US Navy is pulling the worlds largest warship, sent to the eastern Mediterranean Sea after Hamas October 7 attack on Israel, back to the United States as it reevaluates its global force requireme… [+3108 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Aditi Srivastava",
+            "title": "Taylor Swift & Travis Kelce cruise in a Rolls-Royce after New Year's party - Hindustan Times",
+            "description": "‘Swift and Kelce met up with his mother, Donna.' Lovebirds spotted cruising through Kansas City after chiefs victory",
+            "url": "https://www.hindustantimes.com/entertainment/music/taylor-swift-travis-kelce-roll-out-in-400k-rolls-royce-after-rocking-brittany-patricks-new-years-101704164911017.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/01/02/1600x900/GCzS-ynW0AALwGT_1704165250140_1704165262307.jfif",
+            "publishedAt": "2024-01-02T03:20:51Z",
+            "content": "Taylor Swift and Travis Kelce, after setting the New Years dance floor on fire with close pals Brittany and Patrick Mahomes, were seen gliding through the city in a sleek, $400k Rolls-Royce. The pop … [+1975 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Rob Picheta",
+            "title": "Israel’s top court strikes down key part of judicial overhaul, reigniting divisions as war rages - CNN",
+            "description": "Israel’s Supreme Court on Monday struck down a controversial government plan to limit the powers of the judiciary, in an unprecedented move that reignited fierce tensions in the country as Prime Minister Benjamin Netanyahu wages war against Hamas in Gaza.",
+            "url": "https://www.cnn.com/2024/01/01/middleeast/israel-court-judicial-overhaul-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230928073151-01-israel-supreme-court-092823.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-01-02T03:11:00Z",
+            "content": "Israels Supreme Court on Monday struck down a controversial government plan to limit the powers of the judiciary, in an unprecedented move that reignited fierce tensions in the country as Prime Minis… [+6132 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBC10 Boston"
+            },
+            "author": "Kaitlin McKinley Becker",
+            "title": "One dead, another hospitalized due to Legionnaires' disease after stay at NH resort - NBC10 Boston",
+            "description": "One person is dead and another is in the hospital after they were diagnosed with Legionnaires’ disease following a hotel stay at a New Hampshire resort and spa. The New Hampshire Department of Health and Human Services issued an alert on Friday saying two out…",
+            "url": "http://www.nbcboston.com/news/local/one-dead-another-hospitalized-due-to-legionnaires-disease-after-stay-at-nh-resort-hotel/3232782/",
+            "urlToImage": "https://media.nbcboston.com/2023/03/GettyImages-1042128262.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2024-01-02T02:43:16Z",
+            "content": "One person is dead and another is in the hospital after they were diagnosed with Legionnaires' disease following a hotel stay at a New Hampshire resort and spa.\r\nThe New Hampshire Department of Healt… [+3200 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jennifer Sor",
+            "title": "The stock market could soar as much as 30% next year as expectations grow for the Fed to slash rates and inflation to drop 'like a rock,' Fundstrat's Tom Lee says - Yahoo Finance",
+            "description": "The S&P 500 has more than a 50% chance of notching another year of double-digit gains, according to Fundstrat's Tom Lee.",
+            "url": "https://www.businessinsider.com/stock-market-outlook-sp500-fed-rate-cuts-forecast-inflation-fundstrat-2024-1",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/RBoJ9C5mSXm1IAB75UWHrA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/6ddea74f4240493336b65ed307381e7e",
+            "publishedAt": "2024-01-02T02:28:00Z",
+            "content": "The S&amp;P 500 stands a chance of soaring as much as 30% next year, according to Fundstrat's Tom Lee.Photo by Spencer Platt/Getty Images\r\n<ul><li>Stocks could soar as much as 30% this year, Fundstra… [+2403 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Rafael Bernal",
+            "title": "Ramaswamy doubles down on vow to withdraw from Maine, Colorado ballots - The Hill",
+            "description": "GOP presidential hopeful Vivek Ramaswamy repeated his pledge to withdraw from the ballot in states that remove former President Trump, and his call for other Republican candidates to do the same. In an interview on “NewsNation Prime” Monday, Ramaswamy told ho…",
+            "url": "https://thehill.com/homenews/campaign/4384315-ramaswamy-doubles-down-vow-withdraw-maine-colorado-ballots/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/12/ramaswamyvivek_091523gn16_w.jpg?w=1280",
+            "publishedAt": "2024-01-02T01:59:00Z",
+            "content": "Skip to content\r\nGOP presidential hopeful Vivek Ramaswamy repeated his pledge to withdraw from the ballot in states that remove former President Trump, and his call for other Republican candidates to… [+3026 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KKTV 11 News"
+            },
+            "author": "Aaron Vitatoe",
+            "title": "Attorneys release new details about suspect in death of Colorado Springs children after she was arrested in the United Kingdom - KKTV",
+            "description": "After a Colorado Springs mother was arrested in the United Kingdom for the death of her two children, the woman’s ex-husband’s attorneys are releasing details on her criminal history.",
+            "url": "https://www.kktv.com/2024/01/02/attorneys-release-new-details-about-suspect-death-colorado-springs-children-after-she-was-arrested-united-kingdom/",
+            "urlToImage": "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/v2/Y52AIBZ4WBGPBCRHWZGAUFKJBA.PNG?auth=c24f74d91b0d5d62d5cab768779d13ea5030e21cf6548a0c14a74a031e0e5063&width=1200&height=600&smart=true",
+            "publishedAt": "2024-01-02T01:50:00Z",
+            "content": "COLORADO SPRINGS, Colo. (KKTV) - After a Colorado Springs mother was arrested in the United Kingdom for the death of her two children, the womans ex-husbands attorneys are releasing details on her cr… [+3592 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sports Illustrated"
+            },
+            "author": "Ben Stinar",
+            "title": "RJ Barrett's Viral Quote After Knicks-Raptors Trade - Sports Illustrated",
+            "description": "On Monday evening, RJ Barrett made his debut for the Toronto Raptors.",
+            "url": "https://www.si.com/fannation/nba/fastbreak/news/rj-barrett-viral-quote-after-new-york-knicks-toronto-raptors-trade-nba",
+            "urlToImage": "https://www.si.com/.image/t_share/MjAzMzMyOTY2NjQ0OTgzMzYz/usatsi_21551873_168388303_lowres.jpg",
+            "publishedAt": "2024-01-02T01:49:43Z",
+            "content": "On Monday evening, the Toronto Raptors are hosting the Cleveland Cavaliers in Canada.\r\nRJ Barrett, who was recently traded (via the New York Knicks), made his debut for the Raptors.  \r\nBefore the gam… [+1219 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Elyse Dupre",
+            "title": "The Handmaid's Tale Star Yvonne Strahovski Gives Birth to Baby No. 3 - E! NEWS",
+            "description": "The Handmaid's Tale star Yvonne Strahovski recently welcomed a baby boy with husband Tim Loden and called the birth \"an unreal, intense, amazing experience.\"",
+            "url": "https://www.eonline.com/news/1392244/the-handmaids-tale-star-yvonne-strahovski-gives-birth-to-baby-no-3",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023522/rs_1200x1200-230622163836-1200-yvonne-GettyImages-1439927823.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2024-01-02T01:05:00Z",
+            "content": "Yvonne Strahovski is entering the new year with a new family member. \r\nTheHandmaid's Tale star recently welcomed baby no. 3 with husband Tim Loden. \r\n\"Our third little (big!) boy thundered into the w… [+703 chars]"
+        }
+    ]
+}
